@@ -14,4 +14,4 @@ api = dmm.API(api_id=api_id, affiliate_id=affiliate_id)
 
 def getFanzaItem(arg):
     item_search = api.item_search(site="FANZA", hits=3, keyword=arg)
-    return item_search
+    return iccccscstem_search
